@@ -8,5 +8,9 @@ Ich bin Marsel Vadlja, Wirtschaftsinformatiker mit Fokus darauf, praktische Lös
 
 Dafür setze ich vor allem Python und Next.js ein sowie KI-Frameworks wie Google ADK und CrewAI, mit Gemini als zugrundeliegendem Sprachmodell. 
 
+🌐 Portfolio
+Unter folgender Adresse wirst du auf meine Portfolio-Website weitergeleitet:  
+https://69259214ff401179649f4830--marselportfolio.netlify.app/
+
 📫 Kontakt: am besten über LinkedIn:  
 https://www.linkedin.com/in/marsel-vadlja-964527388/[5]
